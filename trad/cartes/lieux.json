@@ -2,87 +2,87 @@
   {
     "id": "0",
     "en": "Malkuth",
-    "fr": ""
+    "fr": "Malkuth"
   },
   {
     "id": "1",
     "en": "Yesod",
-    "fr": ""
+    "fr": "Yesod"
   },
   {
     "id": "2",
     "en": "Netzach",
-    "fr": ""
+    "fr": "Netzach"
   },
   {
     "id": "3",
     "en": "Hod",
-    "fr": ""
+    "fr": "Hod"
   },
   {
     "id": "4",
     "en": "Tiferet",
-    "fr": ""
+    "fr": "Tiferet"
   },
   {
     "id": "5",
     "en": "Chesed",
-    "fr": ""
+    "fr": "Chesed"
   },
   {
     "id": "6",
     "en": "Geburah",
-    "fr": ""
+    "fr": "Geburah"
   },
   {
     "id": "7",
     "en": "Chokmah",
-    "fr": ""
+    "fr": "Chokmah"
   },
   {
     "id": "8",
     "en": "Binah",
-    "fr": ""
+    "fr": "Binah"
   },
   {
     "id": "9",
     "en": "Keter",
-    "fr": ""
+    "fr": "Keter"
   },
   {
     "id": "10",
     "en": "Eden",
-    "fr": ""
+    "fr": "Eden"
   },
   {
     "id": "11",
     "en": "Underworld",
-    "fr": ""
+    "fr": "Souterrain"
   },
   {
     "id": "12",
     "en": "Arcadia",
-    "fr": ""
+    "fr": "Arcadia"
   },
   {
     "id": "13",
     "en": "Factory",
-    "fr": ""
+    "fr": "Usine"
   },
   {
     "id": "14",
     "en": "Holy Town",
-    "fr": ""
+    "fr": "Holy Town"
   },
   {
     "id": "15",
     "en": "Center",
-    "fr": ""
+    "fr": "Le Centre"
   },
   {
     "id": "16",
     "en": "Valhalla",
-    "fr": ""
+    "fr": "Valhalla"
   },
   {
     "id": "17",
@@ -92,342 +92,342 @@
   {
     "id": "18",
     "en": "Gov Bldg@18F",
-    "fr": ""
+    "fr": "Bat Gouv@18É"
   },
   {
     "id": "19",
     "en": "Imperial@Palace",
-    "fr": ""
+    "fr": "Palais@Imperial"
   },
   {
     "id": "20",
     "en": "Gov Bldg@1F",
-    "fr": ""
+    "fr": "Bat Gouv@1É"
   },
   {
     "id": "21",
     "en": "Gov Bldg@15F",
-    "fr": ""
+    "fr": "Bat Gouv@15É"
   },
   {
     "id": "22",
     "en": "Tokyo Twr@30F",
-    "fr": ""
+    "fr": "Tour Tokyo@30É"
   },
   {
     "id": "23",
     "en": "Ichigaya@1F",
-    "fr": ""
+    "fr": "Ichigaya@1É"
   },
   {
     "id": "24",
     "en": "Tokyo Twr@45F",
-    "fr": ""
+    "fr": "Tour Tokyo@45É"
   },
   {
     "id": "25",
     "en": "Tokyo Twr@1F",
-    "fr": ""
+    "fr": "Tour Tokyo@1É"
   },
   {
     "id": "26",
     "en": "Ichigaya@B1",
-    "fr": ""
+    "fr": "Ichigaya@B1"
   },
   {
     "id": "27",
     "en": "Ark 3F",
-    "fr": ""
+    "fr": "Arche 3É"
   },
   {
     "id": "28",
     "en": "Ark 2F",
-    "fr": ""
+    "fr": "Arche 2É"
   },
   {
     "id": "29",
     "en": "Ark 4F",
-    "fr": ""
+    "fr": "Arche 4É"
   },
   {
     "id": "30",
     "en": "Hyperspace",
-    "fr": ""
+    "fr": "Hyperespace"
   },
   {
     "id": "31",
     "en": "Ark 1F",
-    "fr": ""
+    "fr": "Arche 4É"
   },
   {
     "id": "32",
     "en": "Chokmah@Twr 4F",
-    "fr": ""
+    "fr": "Chokmah-Tour 4É"
   },
   {
     "id": "33",
     "en": "Chokmah@Twr 3F",
-    "fr": ""
+    "fr": "Chokmah-Tour 3É"
   },
   {
     "id": "34",
     "en": "Chokmah@Twr 2F",
-    "fr": ""
+    "fr": "Chokmah-Tour 2É"
   },
   {
     "id": "35",
     "en": "Chokmah@Twr 1F",
-    "fr": ""
+    "fr": "Chokmah-Tour 1É"
   },
   {
     "id": "36",
     "en": "Atziluth@Hall B2",
-    "fr": ""
+    "fr": "Atziluth-Hall B2"
   },
   {
     "id": "37",
     "en": "Binah Town",
-    "fr": ""
+    "fr": "Binah-Ville"
   },
   {
     "id": "38",
     "en": "Atziluth@Hall B1",
-    "fr": ""
+    "fr": "Atziluth-Hall B1"
   },
   {
     "id": "39",
     "en": "Geburah@Fort 1F",
-    "fr": ""
+    "fr": "Geburah-Fort 1É"
   },
   {
     "id": "40",
     "en": "Geburah@Fort B2",
-    "fr": ""
+    "fr": "Geburah-Fort B2"
   },
   {
     "id": "41",
     "en": "Chesed@Temple",
-    "fr": ""
+    "fr": "Chesed-Temple"
   },
   {
     "id": "42",
     "en": "Geburah@Fort B1",
-    "fr": ""
+    "fr": "Geburah-Fort B1"
   },
   {
     "id": "43",
     "en": "Beriah@Hall B1",
-    "fr": ""
+    "fr": "Beriah@Hall B1"
   },
   {
     "id": "44",
     "en": "Beriah@Hall B2",
-    "fr": ""
+    "fr": "Beriah-Hall B2"
   },
   {
     "id": "45",
     "en": "Keter@Castle 8F",
-    "fr": ""
+    "fr": "Keter-Château 8É"
   },
   {
     "id": "46",
     "en": "Keter@Castle 9F",
-    "fr": ""
+    "fr": "Keter-Château 9É"
   },
   {
     "id": "47",
     "en": "Keter@Castle 7F",
-    "fr": ""
+    "fr": "Keter-Château 7É"
   },
   {
     "id": "48",
     "en": "Keter@Castle 6F",
-    "fr": ""
+    "fr": "Keter-Château 6É"
   },
   {
     "id": "49",
     "en": "Keter@Castle 5F",
-    "fr": ""
+    "fr": "Keter-Château 5É"
   },
   {
     "id": "50",
     "en": "Keter@Castle 4F",
-    "fr": ""
+    "fr": "Keter-Château 4É"
   },
   {
     "id": "51",
     "en": "Keter@Castle 3F",
-    "fr": ""
+    "fr": "Keter-Château 3É"
   },
   {
     "id": "52",
     "en": "Keter@Castle 1F",
-    "fr": ""
+    "fr": "Keter-Château 1É"
   },
   {
     "id": "53",
     "en": "Keter@Castle 2F",
-    "fr": ""
+    "fr": "Keter-Château 2É"
   },
   {
     "id": "54",
     "en": "Inside@Abaddon",
-    "fr": ""
+    "fr": "Int.@Abaddon"
   },
   {
     "id": "55",
     "en": "Yetzirah@Hall B2",
-    "fr": ""
+    "fr": "Yetzirah-Hall B2"
   },
   {
     "id": "56",
     "en": "Yetzirah@Hall B1",
-    "fr": ""
+    "fr": "Yetzirah-Hall B1"
   },
   {
     "id": "57",
     "en": "Netzach@Town",
-    "fr": ""
+    "fr": "Netzach-Ville"
   },
   {
     "id": "58",
     "en": "Roppongi",
-    "fr": ""
+    "fr": "Roppongi"
   },
   {
     "id": "59",
     "en": "Yesod Town",
-    "fr": ""
+    "fr": "Yessod-Ville"
   },
   {
     "id": "60",
     "en": "Sealed@Cave B4",
-    "fr": ""
+    "fr": "Grt@Scellée B4"
   },
   {
     "id": "61",
     "en": "Sealed@Cave B3",
-    "fr": ""
+    "fr": "Grt@Scellée B3"
   },
   {
     "id": "62",
     "en": "Sealed@Cave B2",
-    "fr": ""
+    "fr": "Grt@Scellée B2"
   },
   {
     "id": "63",
     "en": "Sealed@Cave B1",
-    "fr": ""
+    "fr": "Grt@Scellée B1"
   },
   {
     "id": "64",
     "en": "Sealed@Cave 1F",
-    "fr": ""
+    "fr": "Grt@Scellée 1É"
   },
   {
     "id": "65",
     "en": "Kojimachi@4F",
-    "fr": ""
+    "fr": "Kojimachi@4É"
   },
   {
     "id": "66",
     "en": "Kojimachi@3F",
-    "fr": ""
+    "fr": "Kojimachi@3É"
   },
   {
     "id": "67",
     "en": "Kojimachi@2F",
-    "fr": ""
+    "fr": "Kojimachi@2É"
   },
   {
     "id": "68",
     "en": "Kojimachi@1F",
-    "fr": ""
+    "fr": "Kojimachi@1É"
   },
   {
     "id": "69",
     "en": "Tiferet@Town",
-    "fr": ""
+    "fr": "Tiferet-Ville"
   },
   {
     "id": "70",
     "en": "Otemachi",
-    "fr": ""
+    "fr": "Otemachi"
   },
   {
     "id": "71",
     "en": "Shibuya@2F",
-    "fr": ""
+    "fr": "Shibuya@2É"
   },
   {
     "id": "72",
     "en": "Shibuya@3F",
-    "fr": ""
+    "fr": "Shibuya@3É"
   },
   {
     "id": "73",
     "en": "Shibuya@1F",
-    "fr": ""
+    "fr": "Shibuya@1É"
   },
   {
     "id": "74",
     "en": "Roppongi@B2",
-    "fr": ""
+    "fr": "Roppongi@B2"
   },
   {
     "id": "75",
     "en": "Roppongi@B1",
-    "fr": ""
+    "fr": "Roppongi@B1"
   },
   {
     "id": "76",
     "en": "Roppongi@1F",
-    "fr": ""
+    "fr": "Roppongi@1É"
   },
   {
     "id": "77",
     "en": "Akasaka@B4",
-    "fr": ""
+    "fr": "Akasaka@B4"
   },
   {
     "id": "78",
     "en": "Akasaka@B2",
-    "fr": ""
+    "fr": "Akasaka@B2"
   },
   {
     "id": "79",
     "en": "Akasaka@B3",
-    "fr": ""
+    "fr": "Akasaka@B3"
   },
   {
     "id": "80",
     "en": "Akasaka@1F",
-    "fr": ""
+    "fr": "Akasaka@1É"
   },
   {
     "id": "81",
     "en": "Shinjuku@B1",
-    "fr": ""
+    "fr": "Shinjuku@B1"
   },
   {
     "id": "82",
     "en": "Shinjuku@B3",
-    "fr": ""
+    "fr": "Shinjuku@B3"
   },
   {
     "id": "83",
     "en": "Shinjuku@B2",
-    "fr": ""
+    "fr": "Shinjuku@B2"
   },
   {
     "id": "84",
     "en": "Shinjuku@1F",
-    "fr": ""
+    "fr": "Shinjuku@1É"
   },
   {
     "id": "85",
     "en": "Suidobashi",
-    "fr": ""
+    "fr": "Suidobashi"
   },
   {
     "id": "86",
@@ -452,261 +452,261 @@
   {
     "id": "90",
     "en": "E.Shinjuku@2F",
-    "fr": ""
+    "fr": "Shinjuku.E@2É"
   },
   {
     "id": "91",
     "en": "E.Shinjuku@1F",
-    "fr": ""
+    "fr": "Shinjuku.E@1É"
   },
   {
     "id": "92",
     "en": "E.Shinjuku@3F",
-    "fr": ""
+    "fr": "Shinjuku.E@3É"
   },
   {
     "id": "93",
     "en": "Center@22F",
-    "fr": ""
+    "fr": "Le Centre@22É"
   },
   {
     "id": "96",
     "en": "Center@21F",
-    "fr": ""
+    "fr": "Le Centre@21É"
   },
   {
     "id": "97",
     "en": "Center@20F",
-    "fr": ""
+    "fr": "Le Centre@20É"
   },
   {
     "id": "98",
     "en": "Watch Twr@12F",
-    "fr": ""
+    "fr": "Tour de G.@12É"
   },
   {
     "id": "99",
     "en": "Watch Twr@11F",
-    "fr": ""
+    "fr": "Tour de G.@11É"
   },
   {
     "id": "100",
     "en": "Watch Twr@13F",
-    "fr": ""
+    "fr": "Tour de G.@13É"
   },
   {
     "id": "101",
     "en": "Watch Twr@10F",
-    "fr": ""
+    "fr": "Tour de G.@10É"
   },
   {
     "id": "102",
     "en": "Watch Twr@9F",
-    "fr": ""
+    "fr": "Tour de G.@9É"
   },
   {
     "id": "103",
     "en": "Watch Twr@8F",
-    "fr": ""
+    "fr": "Tour de G.@8É"
   },
   {
     "id": "104",
     "en": "Watch Twr@7F",
-    "fr": ""
+    "fr": "Tour de G.@7É"
   },
   {
     "id": "105",
     "en": "Watch Twr@6F",
-    "fr": ""
+    "fr": "Tour de G.@6É"
   },
   {
     "id": "106",
     "en": "Watch Twr@5F",
-    "fr": ""
+    "fr": "Tour de G.@5É"
   },
   {
     "id": "107",
     "en": "Watch Twr@4F",
-    "fr": ""
+    "fr": "Tour de G.@4É"
   },
   {
     "id": "108",
     "en": "Watch Twr@3F",
-    "fr": ""
+    "fr": "Tour de G.@3É"
   },
   {
     "id": "109",
     "en": "Watch Twr@2F",
-    "fr": ""
+    "fr": "Tour de G.@2É"
   },
   {
     "id": "110",
     "en": "Watch Twr@1F",
-    "fr": ""
+    "fr": "Tour de G.@1É"
   },
   {
     "id": "111",
     "en": "Prison@B1",
-    "fr": ""
+    "fr": "Prison@B1"
   },
   {
     "id": "112",
     "en": "Dig Site@Bottom",
-    "fr": ""
+    "fr": "S. Fouil.@Bas-Fond"
   },
   {
     "id": "113",
     "en": "Valhalla@Tunnel B7",
-    "fr": ""
+    "fr": "Valhalla@Tunnel B7"
   },
   {
     "id": "114",
     "en": "Factory@Town",
-    "fr": ""
+    "fr": "Usine-Ville"
   },
   {
     "id": "115",
     "en": "Factory@Terminal",
-    "fr": ""
+    "fr": "Usine-Terminal"
   },
   {
     "id": "116",
     "en": "Arcadia@Terminal",
-    "fr": ""
+    "fr": "Arcadia-Terminal"
   },
   {
     "id": "117",
     "en": "Worker@Dorm",
-    "fr": ""
+    "fr": "Dortoir"
   },
   {
     "id": "118",
     "en": "Prison@1F",
-    "fr": ""
+    "fr": "Prison@1É"
   },
   {
     "id": "119",
     "en": "Dig Site@B3",
-    "fr": ""
+    "fr": "S. Fouil.@B3"
   },
   {
     "id": "120",
     "en": "Dig Site@B2",
-    "fr": ""
+    "fr": "S. Fouil.@B2"
   },
   {
     "id": "121",
     "en": "Dig Site@B1",
-    "fr": ""
+    "fr": "S. Fouil.@B1"
   },
   {
     "id": "122",
     "en": "Dig Site@1F",
-    "fr": ""
+    "fr": "S. Fouil.@1É"
   },
   {
     "id": "123",
     "en": "Holy Town",
-    "fr": ""
+    "fr": "Holy Town"
   },
   {
     "id": "124",
     "en": "Cathedral@B60",
-    "fr": ""
+    "fr": "Cathédrale@B60"
   },
   {
     "id": "125",
     "en": "Cathedral@3F",
-    "fr": ""
+    "fr": "Cathédrale@3É"
   },
   {
     "id": "126",
     "en": "Cathedral@2F",
-    "fr": ""
+    "fr": "Cathédrale@2É"
   },
   {
     "id": "127",
     "en": "Cathedral@1F",
-    "fr": ""
+    "fr": "Cathédrale@1É"
   },
   {
     "id": "128",
     "en": "Arcadia@5F",
-    "fr": ""
+    "fr": "Arcadia@5É"
   },
   {
     "id": "129",
     "en": "Arcadia@4F",
-    "fr": ""
+    "fr": "Arcadia@4É"
   },
   {
     "id": "130",
     "en": "Arcadia@3F",
-    "fr": ""
+    "fr": "Arcadia@3É"
   },
   {
     "id": "131",
     "en": "Arcadia@2F",
-    "fr": ""
+    "fr": "Arcadia@2É"
   },
   {
     "id": "132",
     "en": "Arcadia@1F",
-    "fr": ""
+    "fr": "Arcadia@1É"
   },
   {
     "id": "133",
     "en": "Arcadia@Homes",
-    "fr": ""
+    "fr": "Arcadia@Mais."
   },
   {
     "id": "134",
     "en": "Virtual@Space",
-    "fr": ""
+    "fr": "Espace@VR"
   },
   {
     "id": "135",
     "en": "Madam's@Manor",
-    "fr": ""
+    "fr": "Manoir de Madam"
   },
   {
     "id": "136",
     "en": "Colosseum",
-    "fr": ""
+    "fr": "Colisée"
   },
   {
     "id": "137",
     "en": "Valhalla@Terminal",
-    "fr": ""
+    "fr": "Valhalla-Terminal"
   },
   {
     "id": "138",
     "en": "Hod Town",
-    "fr": ""
+    "fr": "Hod-Ville"
   },
   {
     "id": "139",
     "en": "Valhalla@Tunnel B2",
-    "fr": ""
+    "fr": "Valhalla@Tunnel B2"
   },
   {
     "id": "140",
     "en": "Valhalla@Downtown",
-    "fr": ""
+    "fr": "Valhalla@Ctr-Ville"
   },
   {
     "id": "141",
     "en": "Big Gym",
-    "fr": ""
+    "fr": "Gymnase"
   },
   {
     "id": "142",
     "en": "Valhalla@Slums 1F",
-    "fr": ""
+    "fr": "Valhalla@Taudis 1É"
   },
   {
     "id": "143",
     "en": "Valhalla@Slums B1",
-    "fr": ""
+    "fr": "Valhalla@Taudis B1"
   }
 ]
